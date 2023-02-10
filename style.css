@@ -1,0 +1,16 @@
+table{
+    display: flex;
+    justify-content: center;
+}
+input{
+    text-align: center;
+    width: 50px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+}
+.out{
+    display: flex;
+    justify-content: center;
+}
